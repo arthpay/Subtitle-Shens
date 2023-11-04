@@ -1,5 +1,5 @@
 # Subtitle-Shens
-Something something .ass subtitles
+Something something .ass subtitles shenanigans. 
 ___
 # Subdig.py
 
